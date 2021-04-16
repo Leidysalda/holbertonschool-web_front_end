@@ -21,6 +21,6 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 - How to embed external content
 - How to correctly structure an HTML page
 
-## Wireframe of Priject
+## Wireframe of Project
 
-![](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2020/4/3e4f9e2b3cb73d1768229e086f5da35337be5c6c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUWMNL5ANN%2F20210416%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210416T132608Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=c6de45a2eb57e2c2dac02b8eaf3ec1ebd1569ad6ccfb08d612a04376c795a157)
+![](https://programacion.net/files/article/20170721010732_wireframe.jpg)
