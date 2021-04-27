@@ -473,7 +473,7 @@ h6 {
     text-align: var(--section-footer-align);
 }
 
-footer {
+.footer {
     padding: var(--footer-padding);
 }
 
