@@ -584,8 +584,8 @@ a:active {
     color: var(--nav-item-link-hover);
 }
 
-.row {
-    content: none;
+.row::after {
+    content: "";
     display: table;
     clear: both;
 }
