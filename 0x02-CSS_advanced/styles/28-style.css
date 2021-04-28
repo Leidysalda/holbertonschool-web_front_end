@@ -545,7 +545,7 @@ h6 {
     --button-font-size: var(--font-size-large);
     --button-hover-color: var(--color-white);
     --button-hover-text-decoration: none;
-    --button-hover-background: var(-- color-primary);
+    --button-hover-background: var(--color-primary);
     --header-padding: 4rem 0 0;
     --header-logo-position: relative;
     --header-logo-link-display: inline-block;
@@ -717,7 +717,7 @@ ul.row {
 }
 
 .header-logo {
-    position: var(--header-logo-link-position);
+    position: var(--header-logo-position);
 }
 
 .header-logo a {
