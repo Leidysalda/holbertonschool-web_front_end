@@ -785,7 +785,7 @@ ul.row {
     ============================= */
 
 .post-meta-list {
-    -ms-flex-direction: column;
+    flex-direction: column;
 }
 
 .post-meta-list strong {
