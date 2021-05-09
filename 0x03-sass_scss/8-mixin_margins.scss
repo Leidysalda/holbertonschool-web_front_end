@@ -1,6 +1,6 @@
 /* Margin mixin */
 
-@maxin margin1($left, $right) {
+@mixin margin1($left, $right) {
   margin-left: $left;
   margin-right: $right; }
 
