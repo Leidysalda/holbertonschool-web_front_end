@@ -1,14 +1,17 @@
 /* Extended */
-$color1: #OOFFO0;
+
+$color1: #00ff00;
 $color2: #FF0000;
- 
 .info {
-  font-size: 12px; }
+    font-size: 12px;
+}
 
 .sucess {
-  @extend .info;
-  color: $color; }
+    @extend .info;
+    color: $color;
+}
 
 .warning {
-  @extend .info;
-  color: $color2; }
+    @extend .info;
+    color: $color2;
+}
