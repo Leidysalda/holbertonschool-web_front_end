@@ -6,7 +6,7 @@ $color2: #ff0000;
     font-size: 12px;
 }
 
-.sucess {
+.success {
     @extend .info;
     color: $color1;
 }
