@@ -371,7 +371,7 @@ a:active {
 }
 
 .off-screen {
-    left: -100w;
+    left: -100vw;
     position: absolute;
 }
 
@@ -390,7 +390,7 @@ a:active {
 
 .skip-link:focus {
     opacity: 1;
-    transform: translateY();
+    transform: translateY(0);
 }
 
 
