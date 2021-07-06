@@ -881,7 +881,7 @@ ul.row {
         position: relative;
     }
     .card-work .card-title {
-        opacity: 1;
+        opacity: 2;
     }
     .card-work .card-title a {
         display: block;
